@@ -8,7 +8,7 @@ This py depicts pomodoro timer fully on Terminal.
 > Only python <br>
 
 ## RUN
-> Clone the repository and open in any IDE (i.e VS Code)
+> Clone the repository and open in any IDE (i.e VS Code)<br>
 > python pomodoro_timer_(NON_GUI).py
 
 ### Feel free to pull and contribute in the project to make it more effective
